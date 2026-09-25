@@ -62,3 +62,12 @@
   .product-grid-all .product-image { height: 340px; }
   .product-grid-all .product-info h3 { font-size: 39px; }
 }
+.building-info {
+  margin-top: 20px;
+}
+
+.building-info p {
+  margin: 8px 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
